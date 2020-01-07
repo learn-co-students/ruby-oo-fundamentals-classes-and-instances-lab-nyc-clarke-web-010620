@@ -1,5 +1,5 @@
 class Person 
 end 
 
-tony_montana = Person.new
-michael_corleone = Person.new
+adele_goldberg = Person.new
+alan_kay = Person.new
